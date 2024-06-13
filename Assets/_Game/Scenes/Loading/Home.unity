@@ -700,7 +700,7 @@ MonoBehaviour:
       Data: mua_vang_goi_2
     - Name: price
       Entry: 1
-      Data: 3.99$
+      Data: 2.99$
     - Name: coin
       Entry: 3
       Data: 100
@@ -736,7 +736,7 @@ MonoBehaviour:
       Data: mua_vang_goi_4
     - Name: price
       Entry: 1
-      Data: 14.99$
+      Data: 9.99$
     - Name: coin
       Entry: 3
       Data: 500
